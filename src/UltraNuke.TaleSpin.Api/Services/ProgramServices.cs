@@ -1,7 +1,6 @@
-﻿using Microsoft.Extensions.Logging;
-using UltraNuke.TaleSpin.Domain;
+﻿using UltraNuke.TaleSpin.Domain;
 
-namespace UltraNuke.TaleSpin.Application.Services;
+namespace UltraNuke.TaleSpin.Api.Services;
 
 public class ProgramServices
 {
@@ -13,7 +12,7 @@ public class ProgramServices
 
         InitialStage = worldInitialStage;
         InMemory = InitialStage;
-        this.Locations = locations;
+        Locations = locations;
     }
 
     public List<Goal> InitialStage { set; get; } = new List<Goal>();

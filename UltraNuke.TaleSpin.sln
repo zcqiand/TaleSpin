@@ -5,9 +5,7 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UltraNuke.TaleSpin.Api", "src\UltraNuke.TaleSpin.Api\UltraNuke.TaleSpin.Api.csproj", "{2B9D394D-0048-488A-A29E-D77910BFFD15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltraNuke.TaleSpin.Domain", "src\UltraNuke.TaleSpin.Domain\UltraNuke.TaleSpin.Domain.csproj", "{26D12868-465E-4FC5-842C-6BA13035717B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltraNuke.TaleSpin.Application", "src\UltraNuke.TaleSpin.Application\UltraNuke.TaleSpin.Application.csproj", "{929E6145-7737-4CDA-BB2A-6E562804E7C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UltraNuke.TaleSpin.Domain", "src\UltraNuke.TaleSpin.Domain\UltraNuke.TaleSpin.Domain.csproj", "{26D12868-465E-4FC5-842C-6BA13035717B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{26D12868-465E-4FC5-842C-6BA13035717B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26D12868-465E-4FC5-842C-6BA13035717B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26D12868-465E-4FC5-842C-6BA13035717B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{929E6145-7737-4CDA-BB2A-6E562804E7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{929E6145-7737-4CDA-BB2A-6E562804E7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{929E6145-7737-4CDA-BB2A-6E562804E7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{929E6145-7737-4CDA-BB2A-6E562804E7C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
