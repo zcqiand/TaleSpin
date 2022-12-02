@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UltraNuke.TaleSpin.Application\UltraNuke.TaleSpin.Application.csproj" />
+    <ProjectReference Include="..\UltraNuke.TaleSpin.Domain\UltraNuke.TaleSpin.Domain.csproj" />
   </ItemGroup>
 
 </Project>
