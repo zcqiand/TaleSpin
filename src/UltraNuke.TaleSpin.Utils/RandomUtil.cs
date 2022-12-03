@@ -1,4 +1,4 @@
-﻿namespace UltraNuke.TaleSpin.Domain;
+﻿namespace UltraNuke.TaleSpin.Utils;
 
 /// <summary>
 /// 随机数

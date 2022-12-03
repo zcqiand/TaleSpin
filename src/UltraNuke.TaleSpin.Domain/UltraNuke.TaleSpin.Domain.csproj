@@ -11,4 +11,8 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\UltraNuke.TaleSpin.Utils\UltraNuke.TaleSpin.Utils.csproj" />
+  </ItemGroup>
+
 </Project>
