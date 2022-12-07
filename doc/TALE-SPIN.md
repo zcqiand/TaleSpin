@@ -50,6 +50,6 @@ Meehan 定义了六种目标。这些目标通过包含其他目标的“计划�
 
 
 # 参考
-https://charlesjlee.com/post/20200606-tale-spin-prolog/
-https://github.com/charlesjlee/prolog
-https://swish.swi-prolog.org/p/talespin.swinb
+* https://charlesjlee.com/post/20200606-tale-spin-prolog/
+* https://github.com/charlesjlee/prolog
+* https://swish.swi-prolog.org/p/talespin.swinb
